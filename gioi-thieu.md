@@ -18,4 +18,4 @@ T  rung tâm chịu sự chỉ đạo, quản lý toàn diện về tổ chức,
 > **Quy định đối tượng người cao tuôi:** , người cao tuổi là công dân Việt Nam từ đủ 60 tuổi trở lên.
 > **Quy định đối tượng trẻ em:**  Dưới 16 tuổi, được hưởng đầy đủ các quyền cơ bản theo pháp luật Việt Nam
 
-![Sơ đồ quy trình tiếp nhận đối tượng](quy trình tiếp nhận đôií tượng.png)
+![Sơ đồ quy trình tiếp nhận đối tượng] (quy trình tiếp nhận đôií tượng.png)
