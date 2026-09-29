@@ -1,5 +1,5 @@
 #   ĐỒ ÁN CUỐI KHÓA - NHẬP MÔN CÔNG NGHỆ THÔNG TIN
-* **Nhóm sinh viên thực hiện:** Nhóm 1 **( Ngô Ngọc Tráng và Nguyễn Ngọc Hiêu )**
+* **Nhóm sinh viên thực hiện:** Nhóm 1 **( Ngô Ngọc Tráng và Nguyễn Ngọc Hiếu )**
 * **Lớp CNTT K66**
 * **Giáo viên hướng dẫn: **Nguyễn Thúy Hòa** 
 * **Link Website hoạt động:** https://ngo-ngoc-trang.github.io/TRUNG-TAM-TRO-GIUP-XA-HOI-QN/
