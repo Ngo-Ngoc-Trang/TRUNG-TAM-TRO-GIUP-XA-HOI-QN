@@ -1,21 +1,14 @@
 * [**TRANG CHỦ**](/)
-   * [Thông tin sinh viên](/?id=thông-tin-sinh-viên)
-   * [Giới thiệu](/?id=giới-thiệu)
-   * [Hình ảnh trụ sở](/?id=hình-ảnh-trụ-sở) 
-   * [Vị trí trụ sở](/?id=vị-trí-trụ-sở)
-
-* **GIAO DIỆN**
-  * [Quy trình xây dựng website](/?id=quy-trình-xây-dựng-website)
-  * [Thủ tục hành chính](/?id=thủ-tục-hành-chính)
-  * [Các dịch vụ Trợ giúp](/?id=các-dịch-vụ-trợ-giúp)
-  * [Quỹ Bảo trợ trẻ em](/?id=Quỹ-Bảo-trợ-trẻ-em)
-  * [Đường dẫn sản phẩm](/?id=đường-dẫn-sản-phẩm)
-  * [Ngôi nhà Ánh Dương](/?id=ngôi-nhà-Ánh-Dương)
-  
-* **HƯỚNG DẪN & DỊCH VỤ**
-  * [Dịch vụ công trực tuyến](dich-vu-cong.md)
-  * [Hướng dẫn sử dụng dịch vụ Bảo trợ](dich-vu-so.md)
-
+* **THÔNG TIN CHUNG**
+  * [Thông tin sinh viên](thong-tin-sinh-vien.md)
+  * [Giới thiệu](gioi-thieu.md)
+  * [Hình ảnh trụ sở](hinh-anh-trung-tam.md) 
+  * [Vị trí trụ sở]()
+  * [Quy trình xây dựng website](quy-trinh-xay-dung-website.md)
+* **DỊCH VỤ TRỢ GIÚP**
+  * [Các dịch vụ Trợ giúp](cac-duch-vu-tro-giup.md)
+  * [Quỹ Bảo trợ trẻ em](quy-bao-tro-tre-em.md)
+  * [Ngôi nhà Ánh Dương](ngoi-nha-anh-duong.md)
 * **HỖ TRỢ**
   * [Câu hỏi thường gặp](cau-hoi-thuong-gap.md)
   * [Liên hệ và phản hồi](lien-he.md)
