@@ -1,4 +1,5 @@
 * [**TRANG CHỦ**](/)
+   * [Thông tin sinh viên](/?id=thông-tin-sinh-viên)
    * [Giới thiệu](/?id=giới-thiệu)
    * [Hình ảnh trụ sở](/?id=hình-ảnh-trụ-sở) 
    * [Vị trí trụ sở](/?id=vị-trí-trụ-sở)
