@@ -2,6 +2,7 @@
 * **Thông Tin Chung**
   * [Thông tin sinh viên](thong-tin-sinh-vien.md)
   * [Giới thiệu](gioi-thieu.md)
+  * [Videos hoạt động của TT](videos.md)
   * [Hình ảnh trụ sở](hinh-anh-trung-tam.md)
   * [Quy trình xây dựng website](quy-trinh-xay-dung-website.md)
   * [Biểu mẫu tiếp nhận](bieu-mau.md)
