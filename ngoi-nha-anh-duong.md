@@ -1,4 +1,4 @@
-![Trung tâm Trợ giúp xã hội QN]( ngoi-nha-anh-duong.jfif)
+![Trung tâm Trợ giúp xã hội QN]( ngoi-nha-anh-duong.jpg)
 # Hỗ trợ đối với nạn nhân bị mua bán
 
 Theo quy định tại Khoản 1, Điều 32, Luật phòng, chống mua bán người năm 2011, Nạn nhân là công dân Việt Nam, người không quốc tịch thường trú ở Việt Nam được hưởng các chế độ hỗ trợ sau đây:
