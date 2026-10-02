@@ -24,3 +24,4 @@ T  rung tâm chịu sự chỉ đạo, quản lý toàn diện về tổ chức,
   referrerpolicy="strict-origin-when-cross-origin" src="https://www.google.com/maps/place/35+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7,+H%E1%BA%A1+Long,+Qu%E1%BA%A3ng+Ninh,+Vi%E1%BB%87t+Nam/@20.9418864,107.1252851,814m/data=!3m2!1e3!4b1!4m5!3m4!1s0x314a57bc551e80cd:0x7f2279232b33646a!8m2!3d20.9418814!4d107.12786?authuser=0&entry=ttu&g_ep=EgoyMDI2MDkyOS4wIKXMDSoASAFQAw%3D%3D"
   allowfullscreen>
 </iframe>
+![Trung tâm Trợ giúp xã hội QN](‎Quy trinh tiep nhan doi tuong.png)
