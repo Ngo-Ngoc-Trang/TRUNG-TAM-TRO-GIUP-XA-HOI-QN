@@ -17,11 +17,4 @@ T  rung tâm chịu sự chỉ đạo, quản lý toàn diện về tổ chức,
 
 > **Quy định đối tượng người cao tuôi:** , người cao tuổi là công dân Việt Nam từ đủ 60 tuổi trở lên.
 > **Quy định đối tượng trẻ em:**  Dưới 16 tuổi, được hưởng đầy đủ các quyền cơ bản theo pháp luật Việt Nam
-> <iframe
-  width="450"
-  height="250"
-  frameborder="0" style="border:0"
-  referrerpolicy="strict-origin-when-cross-origin" src="https://www.google.com/maps/place/35+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7,+H%E1%BA%A1+Long,+Qu%E1%BA%A3ng+Ninh,+Vi%E1%BB%87t+Nam/@20.9418864,107.1252851,814m/data=!3m2!1e3!4b1!4m5!3m4!1s0x314a57bc551e80cd:0x7f2279232b33646a!8m2!3d20.9418814!4d107.12786?authuser=0&entry=ttu&g_ep=EgoyMDI2MDkyOS4wIKXMDSoASAFQAw%3D%3D"
-  allowfullscreen>
-</iframe>
 ![Trung tâm Trợ giúp xã hội QN](‎Quy trinh tiep nhan doi tuong.png)
